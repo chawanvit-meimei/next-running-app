@@ -102,7 +102,7 @@ export default function ShowAllMenuPage() {
             </div>
           ) : menus.length === 0 ? (
             <div className="text-center py-20 border-2 border-dashed rounded-xl bg-gray-50">
-              <div className="text-6xl mb-4">🍱</div>
+              <div className="text-6xl mb-4">🍛</div>
               <h2 className="text-xl font-semibold text-gray-700">
                 ยังไม่มีข้อมูลเมนู
               </h2>
@@ -175,10 +175,10 @@ export default function ShowAllMenuPage() {
             </div>
           )}
 
-          <p className="text-xs text-gray-500 text-center mt-8">
-            Develop by Chawanvit S. <br />
-            SAU 6619N10006
-          </p>
+        <p className="text-xs text-gray-500 mt-6">
+          Develop by Anothai <br />
+          SAU 6619N10001
+        </p>
         </div>
       </div>
     </main>

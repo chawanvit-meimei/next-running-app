@@ -87,7 +87,7 @@ export default function AddMenuPage() {
           Add Menu
         </h1>
 
-        <div className="text-center text-6xl my-6">🍱</div>
+        <div className="text-center text-6xl my-6">🍛</div>
 
         <label className="block mb-2 text-gray-700 font-medium">Name</label>
         <input
@@ -137,9 +137,9 @@ export default function AddMenuPage() {
           Back
         </button>
 
-        <p className="text-xs text-gray-500 text-center mt-6">
-          Develop by Chawanvit S. <br />
-          SAU 6619N10006
+        <p className="text-xs text-gray-500 mt-6">
+          Develop by Anothai <br />
+          SAU 6619N10001
         </p>
       </form>
     </main>
